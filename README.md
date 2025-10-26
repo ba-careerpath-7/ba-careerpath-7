@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Brette and I aspire to learn more about data science!
+
+- 🔭 I’m currently working on a Pokedex Pokemon Mega Project. I am planning to do data science in all Pokemon from Gen 1 to Gen 9. I also plan create over 30 ML models to analyze Pokemon Data 
+- 🌱 I’m currently learning about more Un-Supervised Learning models such as Spectral Decomposition, Isolation Forests, and Auto-Encoders.
+- ⚡ Fun fact: I love board games. One of my favorite board games is Code Names!
+
+
+
 <!--
 **ba-careerpath-7/ba-careerpath-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
