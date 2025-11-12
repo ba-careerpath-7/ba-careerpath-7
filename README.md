@@ -2,8 +2,8 @@
 
 My name is Brette and I aspire to learn more about data science!
 
-- 🔭 I’m currently working on a Pokedex Pokemon Mega Project. I am planning to do data science in all Pokemon from Gen 1 to Gen 9. I also plan create over 30 ML models to analyze Pokemon data. 
-- 🌱 I’m currently learning about more Un-Supervised Learning models such as Spectral Decomposition, Isolation Forests, and Auto-Encoders.
+- 🔭 I’m currently planning to make projects on financial data, exoplanet data, animal data, and more.
+- 🌱 Check out my flagship project: The Pokemon Pokedex MEGA Project! This Project contains over 30 machine learning models on all Pokemon from Gen 1 to Gen 9!
 - ⚡ Fun fact: I love board games. One of my favorite board games is Code Names!
 
 
