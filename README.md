@@ -2,7 +2,7 @@
 
 My name is Brette and I want to learn more about data science!
 
-- 🔭 I’m currently plann to make portfolio projects on financial data, exoplanet data, animal data, and more.
+- 🔭 I’m currently plan to make portfolio projects on financial data, exoplanet data, animal data, and more.
 - 🌱 Check out my flagship project: The Pokemon Pokedex MEGA Project! This Project contains over 30 machine learning models on all Pokemon from Gen 1 to Gen 9!
 - ⚡ Fun fact: I love board games. One of my favorite board games is The Chameleon!
 
