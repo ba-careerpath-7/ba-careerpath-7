@@ -8,7 +8,9 @@ My name is Brette and I want to help people find insights with data science and 
 
 
 ---
-# 🎨 Technical Gallary
+# 🎨 Technical Gallery
+
+Here is a gallery of insightful plots I made.
 
 ## Pokemon Pokedex MEGA Project:
 
@@ -22,16 +24,17 @@ My name is Brette and I want to help people find insights with data science and 
 ## Tesla Stock Price Prediction Project:
 
 
-![image alt]()
+![image alt](https://github.com/ba-careerpath-7/ba-careerpath-7/blob/dbe0bd04a470a11e75fd90ee405a27967bbd0b46/github_tesla_5.PNG)
 
 ## Data Driven E-Commerce A/B Testing Project:
 
-![image alt]()
+![image alt](https://github.com/ba-careerpath-7/ba-careerpath-7/blob/dbe0bd04a470a11e75fd90ee405a27967bbd0b46/github_AB_2.PNG)
 
 ## Corporate Bankruptcy Prediction Project:
 
-![image alt]()
+![image alt](https://github.com/ba-careerpath-7/ba-careerpath-7/blob/dbe0bd04a470a11e75fd90ee405a27967bbd0b46/github_bank_5.PNG)
 
+![image_alt]()
 
 
 
