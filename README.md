@@ -1,9 +1,10 @@
 # 👋 Welcome
 
-My name is Brette and I want to help people find insights with data science and ultimately help others!
-
-- 🔭 I currently plan to make portfolio projects on financial data, exoplanet data, animal data, and more!
+- 😀 My name is Brette and I want to help people find insights with data science and ultimately help others!
+  
 - 🌱 Check out my flagship project: The Pokemon Pokedex MEGA Project! This Project contains over 30 machine learning models on all Pokemon from Gen 1 to Gen 9! (It also contains fun stories such as airplanes and NBA data and how it all relates to reading and interpretting data!)
+
+  
 - ⚡ Fun fact: I love board games. One of my favorite board games is The Chameleon!
 
 
